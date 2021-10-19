@@ -1,0 +1,2 @@
+# AulaTerca
+Readme de exemplo
